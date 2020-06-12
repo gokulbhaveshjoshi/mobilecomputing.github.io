@@ -1,0 +1,41 @@
+body{
+  padding: 5%;
+}
+.heading{
+  margin-top: 2%;
+  background-color: grey;
+  font-size: 120%;
+
+}
+.name{
+  font-size: 120%;
+}
+
+.record{
+  border-bottom:1px solid #ddd
+  text-align: center;
+}
+tr{
+  margin: 2%;
+}
+td{
+  padding-left: 4%;
+  margin-left: 4%;
+}
+li{
+  padding: 1%;
+  margin-left: 2%;
+}
+.list{
+  margin-left: 2%;
+}
+.box{
+  display: inline-block;
+  padding-right: 20%;
+}
+section{
+  border:
+}
+p{
+  padding-left: 4%;
+}
